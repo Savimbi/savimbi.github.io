@@ -1,12 +1,10 @@
 ## Hello I am Dominique
 
-You can use the [editor on GitHub](https://github.com/Savimbi/savimbi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am an ICT innovator with working experience in the software development field. I am skilled in full-stack software development processes from the product/solution design to the public cloud-based deployment. Currently, I have been developing UAV(Drones) based products to contribute to remote sensing by combining sensors and computer vision techniques to generate insights from the physical world. I am open to engaging in IT-related systems development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current position
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a software engineer at dudosart
 
 ```markdown
 Syntax highlighted code block
